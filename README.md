@@ -15,7 +15,7 @@ Each discovered game is saved in the `localStorage`.
 
 Once **3 or more games** are unlocked, a new link appears in the navigation bar: `Cabinet`.
 
-![Navbar](../../../public/images/cabinet/navbar.webp)
+![Navbar](/public/images/cabinet/navbar.webp)
 
 ## The Arcade Cabinet
 
@@ -26,12 +26,12 @@ An immersive, retro-style gaming experience with animated transitions, audio fee
 1. **Idle Stage**  
    A glowing **"CLICK HERE"** prompt invites the user to interact with the arcade cabinet image.
 
-   ![Idle](../../../public/images/cabinet/idle.webp)
+   ![Idle](/public/images/cabinet/idle.webp)
 
 2. **Zoom Stage**  
    The camera zooms in on the screen. Press `ENTER` to proceed or `ESC` to return.
 
-   ![Zoom](../../../public/images/cabinet/zoom.webp)
+   ![Zoom](/public/images/cabinet/zoom.webp)
 
 3. **Enter Stage**  
    A smooth transition simulates entering the cabinet with blur and scale effects.
@@ -39,7 +39,7 @@ An immersive, retro-style gaming experience with animated transitions, audio fee
 4. **Cabinet View**  
    Inside the screen, the games are shown in a rotating **3D carousel** using **Keen Slider**.
 
-   ![Screen](../../../public/images/cabinet/screen.webp)
+   ![Screen](/public/images/cabinet/screen.webp)
 
 ### Cabinet Features
 
