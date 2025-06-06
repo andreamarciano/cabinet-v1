@@ -5,6 +5,8 @@ This is a practice project **built with React**, designed as a fictional e-comme
 > **Technologies used**:  
 > **React**, **Redux**, **Framer Motion**, **Keen Slider**, **Tailwind CSS**, **Custom CSS** (CRT and scanline effects), **LocalStorage** (track unlocked games)
 
+> https://www.youtube.com/watch?v=e6CQ66xiUyw 
+
 - **Keen Slider**  
   [https://keen-slider.io/examples](https://keen-slider.io/examples)  
   A lightweight and responsive touch slider with full control, used for the 3D game carousel inside the cabinet.
